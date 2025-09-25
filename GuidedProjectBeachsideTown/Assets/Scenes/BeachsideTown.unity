@@ -127,6 +127,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 297067948479024617, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9aca1789457ec477db27af6a42eb9b62, type: 2}
+    - target: {fileID: 3377401750957630987, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377401750957630987, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b66a5c69215c14227a46a094105d5de3, type: 2}
+    - target: {fileID: 3377401750957630987, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b66a5c69215c14227a46a094105d5de3, type: 2}
+    - target: {fileID: 6807991323952687578, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9aca1789457ec477db27af6a42eb9b62, type: 2}
     - target: {fileID: 7398218917080251402, guid: 853ee6db66da89246a05a521c995da71, type: 3}
       propertyPath: m_Name
       value: BeachsideTown_StarterEnvironment
