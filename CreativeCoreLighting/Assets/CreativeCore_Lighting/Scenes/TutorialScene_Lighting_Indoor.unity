@@ -1595,6 +1595,91 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &718420469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9253588
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.051214874
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0220592
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1208552451058314098, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1128685162949057103, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_Name
+      value: Apple_BrokenLightmapUVs
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd92e3d1f2f44429787c6d342b52d304, type: 3}
 --- !u!1 &724779033
 GameObject:
   m_ObjectHideFlags: 0
@@ -2430,7 +2515,7 @@ Light:
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0
-    m_NormalBias: 0.86
+    m_NormalBias: 0
     m_NearPlane: 0.1
     m_CullingMatrixOverride:
       e00: 1
@@ -3988,3 +4073,4 @@ SceneRoots:
   - {fileID: 680232717}
   - {fileID: 2134928934}
   - {fileID: 664194132}
+  - {fileID: 718420469}
